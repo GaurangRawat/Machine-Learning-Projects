@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-It is a repository that shows my journey of learning ML .  It constitutes of projects that I made while learning ML .
+It is a repository that shows my journey of learning ML .  It constitutes a collection of projects I developed while learning ML. .
